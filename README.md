@@ -1,4 +1,4 @@
-Hey, I'm Mohamad Anas, a full-stack web developer who's all about the MERN stack magic (MongoDB, Express.js, React, Node.js). I love creating cool, data-driven web apps using MongoDB for strong databases, Express.js for smooth backends, React for snazzy interfaces, and Node.js for all that server-side magic.
+Hey, I'm a full-stack web developer who's all about the MERN stack magic (MongoDB, Express.js, React, Node.js). I love creating cool, data-driven web apps using MongoDB for strong databases, Express.js for smooth backends, React for snazzy interfaces, and Node.js for all that server-side magic.
 
 I'm all about making websites that look awesome and work seamlessly on any device – because who likes glitches, right? I'm fluent in the web dev languages like HTML, CSS, JavaScript,React and I'm buddies with Redux Toolkit for those extra cool features in the designs.
 
