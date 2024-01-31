@@ -39,7 +39,7 @@ When it comes to the behind-the-scenes stuff, I'm your guy for building strong a
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
 
-</td><td valign="top" width="50%">
+</td>
 
 
 
