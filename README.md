@@ -41,9 +41,6 @@ When it comes to the behind-the-scenes stuff, I'm your guy for building strong a
 
 </td><td valign="top" width="50%">
 
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
 
 
 </td></tr></table>  
