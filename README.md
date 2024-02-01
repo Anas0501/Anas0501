@@ -99,13 +99,8 @@ When it comes to the behind-the-scenes stuff, I'm your guy for building strong a
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=Anas0501&&style=flat-square)  
   
-
 <br/>  
 
-
-<br />
 
 
