@@ -108,5 +108,4 @@ When it comes to the behind-the-scenes stuff, I'm your guy for building strong a
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
