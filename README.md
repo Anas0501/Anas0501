@@ -29,10 +29,10 @@ When it comes to the behind-the-scenes stuff, I'm your guy for building strong a
 - 🔭 I’m currently working on [EverCart-v2](https://github.com/Anas0501/EverCart-v2)  
   
 
-- 🌱 I’m currently learning Typescript, T3 and many more frameworks  
+- 🌱 I’m currently learning Typescript, T3 and many more frameworks. 
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to MERN stack and related technologies.
 
 
 </td></tr></table>  
@@ -81,7 +81,6 @@ When it comes to the behind-the-scenes stuff, I'm your guy for building strong a
 </div>  
 
 <br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
