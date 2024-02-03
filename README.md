@@ -1,4 +1,4 @@
-## Hey 👋, I'm Mohamad Anas! From India  
+## Hey 👋, I'm Mohamad Anas! From India.  
   
 
 <a href="https://github.com/Anas0501" target="_blank">
@@ -11,8 +11,6 @@
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
   
-
-
 
 ### Glad to see you here!  
 Hey, I'm a full-stack web developer who's all about the MERN stack magic (MongoDB, Express.js, React, Node.js). I love creating cool, data-driven web apps using MongoDB for strong databases, Express.js for smooth backends, React for snazzy interfaces, and Node.js for all that server-side magic.
