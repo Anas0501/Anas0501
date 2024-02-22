@@ -22,7 +22,7 @@ Hey, I'm a full-stack web developer who's all about the MERN stack magic (MongoD
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+
 
 - 🔭 I’m currently working on [EverCart-v2](https://github.com/Anas0501/EverCart-v2)  
   
@@ -32,12 +32,6 @@ Hey, I'm a full-stack web developer who's all about the MERN stack magic (MongoD
 
 - ❓ Ask me about anything related to MERN stack and related technologies  
 
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
 
 <br/>  
 
