@@ -10,32 +10,15 @@
 <a href="https://instagram.com/anas_490_" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-  
-
-
-
 ### Glad to see you here!  
 Hey, I'm a full-stack web developer who's all about the MERN stack magic (MongoDB, Express.js, React, Node.js). I love creating cool, data-driven web apps using MongoDB for strong databases, Express.js for smooth backends, React for snazzy interfaces, and Node.js for all that server-side magic. I'm all about making websites that look awesome and work seamlessly on any device – because who likes glitches, right? I'm fluent in the web dev languages like HTML, CSS, JavaScript, React and I'm buddies with Redux Toolkit for those extra cool features in the designs. When it comes to the behind-the-scenes stuff, I'm your guy for building strong and scalable APIs using Node.js and Express.js. And guess what? MongoDB is the superhero for managing all that data.  
-  
-
 <br/>  
-
-
 ## Rapidfire  
 
-
 - 🔭 I’m currently working on [EverCart-v2](https://github.com/Anas0501/EverCart-v2)  
-  
-
 - 🌱 I’m currently learning Typescript, T3 and many more frameworks.  
-  
-
 - ❓ Ask me about anything related to MERN stack and related technologies  
-
-
 <br/>  
-
-
 ## Languages and Tools  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" /></a>  
